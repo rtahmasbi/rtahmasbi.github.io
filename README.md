@@ -27,6 +27,8 @@ git subtree push --prefix ex2 origin ex2
 # list of branches
 git branch -a
 
+# delete remote branch
+git push -d origin ex2
 
 
 
