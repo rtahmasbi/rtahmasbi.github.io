@@ -20,6 +20,7 @@ https://username.github.io.
 git add .
 git commit -m "branch"
 git subtree push --prefix Example1 origin Example1
+git subtree push --prefix ex2 origin ex2
 
 
 
