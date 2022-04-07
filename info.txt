@@ -1,0 +1,15 @@
+git clone https://github.com/username/username.github.io
+
+
+
+
+git add --all
+
+git commit -m "Initial commit"
+
+# it shold be main
+git push -u origin main
+
+
+https://username.github.io.
+
