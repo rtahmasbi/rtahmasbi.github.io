@@ -32,6 +32,7 @@ git branch -a
 
 # delete remote branch
 git push -d origin ex2
+git push -d origin Example1
 
 
 
