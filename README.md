@@ -19,8 +19,11 @@ https://username.github.io.
 
 git add .
 git commit -m "branch"
+git push
+
 git subtree push --prefix Example1 origin Example1
 git subtree push --prefix ex2 origin ex2
+git subtree push --prefix vr_paint origin vr_paint
 
 
 
